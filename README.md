@@ -24,6 +24,8 @@ Song Y, Sohl-Dickstein J, Kingma D P, et al. Score-based generative modeling thr
 
 https://yang-song.net/blog/2021/score/
 
+https://www.bilibili.com/video/BV1Dd4y1A7oz/?spm_id_from=333.788&vd_source=610c267a4ef9add9ee52ada52ef9c380
+
 Reproduce MNIST pictures with score-based diffusion model
 
 ![image](https://user-images.githubusercontent.com/90286636/197397846-1d987095-eec2-4fee-9b96-c6d1c681ad45.png)
