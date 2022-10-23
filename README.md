@@ -16,4 +16,16 @@ Then reverse the above process and recreate the true sample from a Gaussian nois
 
 The details of DDPM can be seen in probabilitistic_diffusion_model.ipynb
 
-## 
+## Score_Diffusion_Model
+
+Reference :
+
+Song Y, Sohl-Dickstein J, Kingma D P, et al. Score-based generative modeling through stochastic differential equations[J]. arXiv preprint arXiv:2011.13456, 2020.
+
+https://yang-song.net/blog/2021/score/
+
+Reproduce MNIST pictures with score-based diffusion model
+
+![image](https://user-images.githubusercontent.com/90286636/197397846-1d987095-eec2-4fee-9b96-c6d1c681ad45.png)
+
+The details of score-based diffusion model can be seen in Score_Diffusion_Model.ipynb
